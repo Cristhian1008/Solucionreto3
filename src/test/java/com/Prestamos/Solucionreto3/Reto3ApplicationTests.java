@@ -1,4 +1,4 @@
-package com.Prestamos.Reto3;
+package com.Prestamos.Solucionreto3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

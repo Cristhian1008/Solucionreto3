@@ -1,4 +1,4 @@
-package com.Prestamos.Reto3;
+package com.Prestamos.Solucionreto3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
